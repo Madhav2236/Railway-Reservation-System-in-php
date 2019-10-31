@@ -127,10 +127,10 @@ CREATE TABLE `seats_availability` (
 --
 
 INSERT INTO `seats_availability` (`Train_No`, `Train_Name`, `doj`, `1A`, `2A`, `3A`, `AC`, `CC`, `SL`) VALUES
-(12009, 'SHATABDI EXP', '2017-04-10', 5, 5, 5, 5, 5, 5),
-(12009, 'SHATABDI EXP', '2017-04-11', 5, 5, 5, 5, 5, 5),
-(12009, 'SHATABDI EXP', '2017-04-12', 5, 5, 5, 5, 5, 5),
-(12009, 'SHATABDI EXP', '2017-04-13', 5, 5, 5, 5, 5, 5),
+(12009, 'SHATABDI EXP', '2019-04-10', 5, 5, 5, 5, 5, 5),
+(12009, 'SHATABDI EXP', '2019-04-11', 5, 5, 5, 5, 5, 5),
+(12009, 'SHATABDI EXP', '2019-04-12', 5, 5, 5, 5, 5, 5),
+(12009, 'SHATABDI EXP', '2019-04-13', 5, 5, 5, 5, 5, 5),
 (12009, 'SHATABDI EXP', '2017-04-14', 5, 5, 5, 5, 5, 5),
 (12009, 'SHATABDI EXP', '2017-04-15', 5, 5, 5, 5, 5, 5),
 (12009, 'SHATABDI EXP', '2017-04-16', 5, 5, 5, 5, 5, 5),
